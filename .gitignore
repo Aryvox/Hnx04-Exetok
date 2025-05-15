@@ -1,0 +1,12 @@
+# Fichiers de configuration contenant des secrets
+.env
+*.env
+config.py
+
+# Fichiers de sauvegarde
+backup.json
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class 
